@@ -18,9 +18,9 @@
 - [ ] 1a. Accurate implementation of Mini Block Cipher functions in Python, following provided specifications (2.5 points) - Aaron
 - [ ] 1b. Creation of at least ten distinct plaintext-ciphertext pairs, clearly
 presented (0.5 points) - Aaron
-- [ ] 2a. Correct implementation of meet-in-the-middle attack strategy on the
+- [x] 2a. Correct implementation of meet-in-the-middle attack strategy on the
 mini block cipher, demonstrating understanding (2 points) - Ricky
-- [ ] 2b. Clear presentation of meet-in-the-middle attack results using
+- [x] 2b. Clear presentation of meet-in-the-middle attack results using
 plaintext-ciphertext pairs from Task 1b (1 point) - Ricky
 - [ ] 3a. Correct Calculation of key space for the mini block cipher. (0.5 points) - Alonzo
 - [ ] 3b. Correct calculation of operations required for the meet-in-the-middle attack on the double mini block cipher (0.5 points) - Alonzo
